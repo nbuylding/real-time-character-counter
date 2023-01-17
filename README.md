@@ -19,7 +19,7 @@ For this project, I had to build a real-time character counter using HTML, CSS, 
 
 ### Links
 
-- Live Site URL: [live site URL here]()
+- Live Site URL: [live site URL here](https://nbuylding.github.io/real-time-character-counter/)
 
 ## My process
 
